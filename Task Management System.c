@@ -1,3 +1,7 @@
+//<!--  Author Name: Christophe Nshimiyimana.
+                        // GigHub Link: https://github.com/Christophe210
+                        // Visit My Website : tsindamedia.com -->
+
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -220,3 +224,8 @@ void load_tasks_from_file(struct Task tasks[], int *task_count) {
 
     fclose(file);
 }
+
+
+//<!--  Author Name: Christophe Nshimiyimana.
+                        // GigHub Link: https://github.com/Christophe210
+                        // Visit My Website : tsindamedia.com -->
