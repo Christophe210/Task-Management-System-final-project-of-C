@@ -1,3 +1,8 @@
+// Author Name: Christophe Nshimiyimana.
+                        //GigHub Link: https://github.com/Christophe210
+                        //Visit My Website : tsindamedia.com 
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
