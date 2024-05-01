@@ -30,8 +30,8 @@ void load_tasks_from_file(struct Task tasks[], int *task_count);
 
 // Main function
 int main() {
-    struct Task tasks[MAX_TASKS]; // Array to store tasks
-    int task_count = 0; // Variable to keep track of number of tasks
+    struct Task tasks[MAX_TASKS]; 
+    int task_count = 0; 
 
     // Load tasks from file
     load_tasks_from_file(tasks, &task_count);
